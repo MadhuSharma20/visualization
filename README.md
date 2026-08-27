@@ -1,2 +1,2 @@
 # visualization
-visualization projects for Tableau
+Visualization Projects for Tableau
